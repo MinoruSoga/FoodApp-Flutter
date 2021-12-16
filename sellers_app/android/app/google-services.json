@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090610166483",
+    "project_id": "foodpanda-clone-app-d25a1",
+    "storage_bucket": "foodpanda-clone-app-d25a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090610166483:android:f54bf93f52287be43df226",
+        "android_client_info": {
+          "package_name": "com.baritech.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090610166483-8jfvb4c37fq6lstt5lsikmf728i21usv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJSSZE-PoPB4nH9OZ_5Ya_t0IjeDcDsWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090610166483-8jfvb4c37fq6lstt5lsikmf728i21usv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
